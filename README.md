@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adrielcode2025
 - 👀 I’m interested in coding(HTML)
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me ... @itz_lordadriel  on telegram
 - 😄 Pronouns: He
